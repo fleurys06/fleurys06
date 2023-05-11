@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fleurys06
 - 👀 I’m interested in learning languages
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on bot for discord
+- 💞️ I’m looking to collaborate on bots for discord
 - 📫 How to reach me discord#1507
 
 <!---
